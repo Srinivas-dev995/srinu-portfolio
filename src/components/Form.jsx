@@ -82,7 +82,7 @@ const Form = () => {
                   id="name"
                   type="text"
                   placeholder="Enter your name"
-                  className="mb-3"
+                  className="mb-3 input"
                   name="name"
                   onChange={handleChange}
                 />
@@ -95,7 +95,7 @@ const Form = () => {
                   id="email"
                   type="email"
                   placeholder="Enter your mail"
-                  className="mb-3"
+                  className="mb-3 input"
                   name="email"
                   onChange={handleChange}
                 />

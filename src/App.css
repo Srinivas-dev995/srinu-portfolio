@@ -201,6 +201,7 @@
 }
 .description {
   border-radius: 10px;
+  width: 300px;
 }
 
 .connect {
@@ -322,7 +323,7 @@
     font-size: 25px;
   }
   .form-container {
-    width: 400px;
+    width: 330px;
   }
   .connect {
     display: none;
