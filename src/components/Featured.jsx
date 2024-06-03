@@ -6,7 +6,7 @@ const Featured = () => {
     <section id="featured" className="feature-container" style={{backgroundColor:"#EAE7DC"}}>
       <div className="container">
         <div className="row featured-section pt-5 pb-5 d-flex justify-content-center align-items-center">
-          <div className="col-lg-4 ">
+          <div className="col-lg-4">
             <h1 className="mb-3">
               Featured On <TbArrowWaveRightDown />
             </h1>

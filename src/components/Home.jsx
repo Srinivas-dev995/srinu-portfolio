@@ -1,5 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { Helmet } from "react-helmet";
+
 
 const Home = () => {
   return (
@@ -8,6 +10,19 @@ const Home = () => {
       className=""
       style={{ backgroundColor: "InactiveCaption" }}
     >
+      {/* <Helmet>
+        <title>Srinivasa Reddy Portfolio</title>
+        <meta name="description" content="Welcome and Namasthe" />
+        <meta property="og:title" content="MyApp" />
+       
+      </Helmet> */}
+      <Helmet> 
+        <title>Srinivasa Reddy Portfolio</title> 
+        <meta name="description" content="Welcome and Namasthe to my exclusive portfolio" /> 
+        <meta property="og:title" content="My Open Graph title" /> 
+        <meta property="og:description" content="My Open Graph description" /> 
+        <meta property="og:image" content="https://res.cloudinary.com/dyb9asxnk/image/upload/v1665154369/windows-oVAzLDIdqic-unsplash_mlohy2.jpg" /> 
+      </Helmet> 
       <div className="container home d-flex justify-content-center align-items-center">
         <div
           className="row d-flex justify-content-center align-items-center mb-5"
