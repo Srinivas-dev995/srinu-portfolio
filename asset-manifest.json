@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/srinu-portfolio/static/css/main.f11682f7.css",
-    "main.js": "/srinu-portfolio/static/js/main.27ba669f.js",
-    "static/js/453.1407b060.chunk.js": "/srinu-portfolio/static/js/453.1407b060.chunk.js",
+    "main.css": "/srinu-portfolio/static/css/main.82916f12.css",
+    "main.js": "/srinu-portfolio/static/js/main.66290191.js",
+    "static/js/453.ace21015.chunk.js": "/srinu-portfolio/static/js/453.ace21015.chunk.js",
     "static/media/slick.svg": "/srinu-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/srinu-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/srinu-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/srinu-portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/srinu-portfolio/index.html",
-    "main.f11682f7.css.map": "/srinu-portfolio/static/css/main.f11682f7.css.map",
-    "main.27ba669f.js.map": "/srinu-portfolio/static/js/main.27ba669f.js.map",
-    "453.1407b060.chunk.js.map": "/srinu-portfolio/static/js/453.1407b060.chunk.js.map"
+    "main.82916f12.css.map": "/srinu-portfolio/static/css/main.82916f12.css.map",
+    "main.66290191.js.map": "/srinu-portfolio/static/js/main.66290191.js.map",
+    "453.ace21015.chunk.js.map": "/srinu-portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f11682f7.css",
-    "static/js/main.27ba669f.js"
+    "static/css/main.82916f12.css",
+    "static/js/main.66290191.js"
   ]
 }
